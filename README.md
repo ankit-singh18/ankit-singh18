@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ankit Singh 👋
 
-<!--
-**ankit-singh18/ankit-singh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Lovely Professional University
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, SQL, Excel and Power BI.
+
+💡 Interested in Data Analytics, Customer Behaviour and Market Trends.
+
+## My Goals
+- Improve my programming and analytical skills.
+- Build practical data analytics projects.
+- Gain industry experience through internships.
+
+## Technologies I'm Learning
+- Python
+- SQL
+- Excel
+- Power BI
+- HTML & CSS
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ankit-singh-b1861843a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Instagram: https://www.instagram.com/ankit_._singh18?srtk=MWJjdXNxdTg4dHBmag==
